@@ -57,7 +57,7 @@ python3 txt_or_treat.py
 
 - The flag will be in the following format: `FLAG{i_am_a_flag_2025}`
 - The flag will be 20 characters long and may contain the following characters: `a-z`, `0-9`, and `_`
-- You will need to use the FULL flag to finish the game
+- You will need to use the FULL flag as shown above to finish the game
 
 ## Part 2: Extract the pumpkin
 
