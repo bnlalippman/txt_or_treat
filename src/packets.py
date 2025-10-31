@@ -6,7 +6,7 @@ COMPROMISED_HOST = "10.0.0.2"
 DNS_HOST = "10.0.0.10"
 ATTACKER_HOST = "203.0.113.6"
 ATTACKER_DOMAIN = "pumpkin.local"
-FLAG = "RkxBR3toYWxsb3dlZW4yMDI1fQ=="
+FLAG = "RkxBR3toYWxsb3dlZW5fMjAyNX0K"
 PRETEXT = "WU9VX0ZPVU5EX0FfTEVUVEVSXw=="
 HALLOWEEN_WORDLIST = ("ghost", "witch", "candy", "spooky",
                       "haunted", "costume", "trick", "treat", "skeleton",
